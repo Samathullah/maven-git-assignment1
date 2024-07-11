@@ -5,7 +5,7 @@ public class Staffmanagement {
 	private int id;
 	private String name;
 	private String address;
-	private int postalcode;
+	private boolean postalcode;
 	
 
 }
