@@ -5,6 +5,6 @@ public class Staffmanagement {
 	private int id;
 	private String name;
 	private boolean address;
-	private int number;
+	private int classid;
 
 }
