@@ -6,5 +6,6 @@ public class Staffmanagement {
 	private String name;
 	private boolean address;
 	private int number;
+	private boolean classid;
 
 }
